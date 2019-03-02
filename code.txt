@@ -1,1 +1,2 @@
 this is a git file
+two info is git_02
