@@ -9,3 +9,4 @@
 8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt
 10 new line
 11 禁用快速合并
+12 解决bug
