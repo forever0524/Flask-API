@@ -5,4 +5,5 @@
 5 this is five line
 6 创建分支
 9 master 解决冲突
-
+7 解决冲突
+8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt8 master编辑code.txt
